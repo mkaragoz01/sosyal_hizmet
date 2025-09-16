@@ -1,17 +1,3 @@
-# sosyal_hizmet
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# sosyal_hizmet
+<img width="388" height="864" alt="image" src="https://github.com/user-attachments/assets/683577ff-fc5a-42bf-9651-7ecfdfb87631" />
+<img width="387" height="866" alt="image" src="https://github.com/user-attachments/assets/fd63e95f-b687-4a43-9bc5-0d50d67b489e" />
+<img width="390" height="857" alt="image" src="https://github.com/user-attachments/assets/dd02f4a4-3c61-4aef-97fa-6f5a1474f6dc" />
